@@ -1,6 +1,7 @@
 # Mi primera página web 
 
-¡Bienvenidos a mi sitio web! Este es un proyecto inicial donde presento mi trabajo y los primeros pasos que estoy dando en el desarrollo web.
+Bienvenidos a mi sitio web
+Este es un proyecto inicial donde presento mi trabajo y los primeros pasos que estoy dando en el desarrollo web.
 
 ---
 
@@ -13,7 +14,7 @@
 
 ## Tecnologías Utilizadas
 
-* **HTML5**: Estructura general de la página web.
+* **HTML**: Estructura general de la página web.
 * **Git**: Control de versiones local para el seguimiento de cambios.
 * **GitHub**: Alojamiento del repositorio y publicación en línea.
 * **GitHub Pages** Publicación y despliegue del sitio web en vivo. 
