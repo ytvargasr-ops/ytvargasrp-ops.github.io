@@ -1,7 +1,7 @@
 # Mi primera página web 
 
 Bienvenidos a mi sitio web
-Este es un proyecto inicial donde presento mi trabajo y los primeros pasos que estoy dando en el desarrollo web.
+este es un proyecto inicial donde presento mi trabajo y los primeros pasos que estoy dando en el desarrollo web.
 
 ---
 
