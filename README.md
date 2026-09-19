@@ -7,7 +7,7 @@
 ## Sobre el Proyecto
 
 * **Nombre del proyecto:** Mantenimiento de computadores y desarrollo de aplicaciones web.
-* **Propósito:** Esta página fue creada con el objetivo de aprender y poner en práctica conceptos básicos de **HTML, Git y GitHub**.
+* **Propósito:** Esta página fue creada con el objetivo de poner en práctica y demostrar lo aprendido sobre  **HTML, Git y GitHub y GitHub Pages**.
 
 ---
 
@@ -16,9 +16,9 @@
 * **HTML5**: Estructura general de la página web.
 * **Git**: Control de versiones local para el seguimiento de cambios.
 * **GitHub**: Alojamiento del repositorio y publicación en línea.
-
+* **GitHub Pages** Publicación y despliegue del sitio web en vivo. 
 ---
 
-## Autora
+## Creado por:
 
 * **Yenny Tatiana Vargas Rivera**
